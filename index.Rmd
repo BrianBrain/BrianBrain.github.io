@@ -1,3 +1,9 @@
 ---
-title: "歡迎來到我的個人網頁"
+title: "歡迎來到我的個人頁面"
+author: "我是Brian 劉家佑"  
+date: "現在時間:`r format(Sys.time())`"
+output: html_document
 ---
+個人聯絡資訊以及github首頁在右上角
+
+![感謝你的造訪](192807184_467560864541659_8756187739951694875_n.jpg)
